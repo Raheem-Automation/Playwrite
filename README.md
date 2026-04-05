@@ -4,7 +4,7 @@ Playwrite_Cheat_Sheet
 
 A quick reference for the most important Playwright concepts.
 
-## Setup
+## Setup 
 ```bash
 npm init playwright@latest
 npx playwright test          # run all tests
