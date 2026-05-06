@@ -1,4 +1,4 @@
-# Playwrite
+# Playwrite Automation
 Playwrite_Cheat_Sheet
 # Playwright Cheat Sheet
 
