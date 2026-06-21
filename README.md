@@ -28,3 +28,4 @@ npx playwright codegen  # record tests
 | **Contexts** | Auth state, permissions, geolocation mocking |
 | **CLI** | --headed, --debug, --grep, --last-failed |
 | **CI/Parallel** | fullyParallel, serial, GitHub Actions reporter |
+
